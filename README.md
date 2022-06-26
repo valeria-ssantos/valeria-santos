@@ -1,9 +1,9 @@
 # Bem vindo ao meu perfil, Valéria Santos 🚀
  
  <div>
-  <a href="https://github.com/valeria-santos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=valeria-santos&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeria-santos&layout=compact&langs_count=6&theme=tokyonight"/>
+  <a href="https://github.com/valeria-ssantos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=valeria-ssantos&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeria-ssantos&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
@@ -19,6 +19,6 @@
   <a href = "mailto:valerialeal21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/valéria-santos-7a012487" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/valeria-santos/valeria-santos/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/valeria-ssantos/valeria-ssantos/blob/output/github-contribution-grid-snake.svg)
 
 </div>
